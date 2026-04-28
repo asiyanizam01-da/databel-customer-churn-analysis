@@ -6,6 +6,21 @@ This Power BI project analyses customer churn for **Databel**, a fictional telec
 > **Note:** This dataset is fictional and created for educational and portfolio purposes by DataCamp. It does not represent real customer data.
 
 ---
+ 
+## 📋 Table of Contents
+- [Folder Structure](#-folder-structure)
+- [Dataset Description](#-dataset-description)
+- [Project Objectives](#-project-objectives)
+- [Tools & Technologies Used](#-tools--technologies-used)
+- [Data Transformation](#data-transformation)
+- [DAX Measures](#dax-measures)
+- [Dashboard Pages](#dashboard-pages)
+- [Key Findings & Recommendations](#-key-findings--recommendations)
+- [How to Open the Dashboard](#️-how-to-open-the-dashboard)
+- [Dashboard Screenshots](#-dashboard-screenshots)
+- [Author](#-author)
+
+---
 
 ## 📁 Folder Structure
 
