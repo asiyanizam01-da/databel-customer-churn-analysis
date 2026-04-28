@@ -6,7 +6,7 @@ This Power BI project analyses customer churn for **Databel**, a fictional telec
 > **Note:** This dataset is fictional and created for educational and portfolio purposes by DataCamp. It does not represent real customer data.
 
 ---
- 
+
 ## 📋 Table of Contents
 - [Folder Structure](#-folder-structure)
 - [Dataset Description](#-dataset-description)
@@ -17,7 +17,6 @@ This Power BI project analyses customer churn for **Databel**, a fictional telec
 - [Dashboard Pages](#dashboard-pages)
 - [Key Findings & Recommendations](#-key-findings--recommendations)
 - [How to Open the Dashboard](#️-how-to-open-the-dashboard)
-- [Dashboard Screenshots](#-dashboard-screenshots)
 - [Author](#-author)
 
 ---
@@ -173,17 +172,35 @@ SUM(Databel[Extra International Charges]) / [Number of Customers]
 ### Page 1 — Overview
 High-level summary of overall churn rate, total customers, churned customers, and top churn reasons. Includes churn rate by state displayed through KPI cards, charts, and a map visual.
 
+![Overview](screenshots/page1_overview.png)
+
+---
+
 ### Page 2 — Customer Demographics
 Churn breakdown by demographics, group plan participation, and age bins. Includes a slicer filter on account length to identify high-risk demographic segments.
+
+![Demographics](screenshots/page2_demographics.png)
+
+---
 
 ### Page 3 — Payment & Contracts
 Churn patterns across payment methods and contract types to identify behavioural and financial trends linked to retention.
 
+![Payments and Contracts](screenshots/page3_payments_contracts.png)
+
+---
+
 ### Page 4 — Charges & Plans
-Analysis of churn across international plans, unlimited plans, device protection, and online backup subscriptions, and data consumption groups.
+Analysis of churn across international plans, unlimited plans, device protection and online backup subscriptions, and data consumption groups.
+
+![Charges and Plans](screenshots/page4_charges_plans.png)
+
+---
 
 ### Page 5 — Customer Service Calls & Churn
 Explores the relationship between churn and the number of customer service calls. Includes a geographic breakdown of service call frequency across all states.
+
+![Customer Service Calls](screenshots/page5_customer_service.png)
 
 ---
 
@@ -217,25 +234,6 @@ Explores the relationship between churn and the number of customer service calls
 5. Navigate through report pages using the tabs at the bottom of the screen
 
 > Built using Power BI Desktop (2024). Some visuals may render differently on older versions.
-
----
-
-## 📸 Dashboard Screenshots
-
-### Page 1 — Overview
-![Overview](screenshots/page1_overview.png)
-
-### Page 2 — Customer Demographics
-![Demographics](screenshots/page2_demographics.png)
-
-### Page 3 — Payment & Contracts
-![Payments and Contracts](screenshots/page3_payments_contracts.png)
-
-### Page 4 — Charges & Plans
-![Charges and Plans](screenshots/page4_charges_plans.png)
-
-### Page 5 — Customer Service Calls
-![Customer Service Calls](screenshots/page5_customer_service.png)
 
 ---
 
