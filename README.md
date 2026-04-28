@@ -233,7 +233,7 @@ Explores the relationship between churn and the number of customer service calls
 4. The dataset is embedded — no additional setup required
 5. Navigate through report pages using the tabs at the bottom of the screen
 
-> Built using Power BI Desktop (2024). Some visuals may render differently on older versions.
+> Built using Power BI Desktop (2026). Some visuals may render differently on older versions.
 
 ---
 
