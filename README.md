@@ -186,7 +186,7 @@ Churn breakdown by demographics, group plan participation, and age bins. Include
 ### Page 3 — Payment & Contracts
 Churn patterns across payment methods and contract types to identify behavioural and financial trends linked to retention.
 
-![Payments and Contracts](screenshots/page3_payments_contracts.png)
+![Payments and Contracts](screenshots/page3_payment_contracts.png)
 
 ---
 
