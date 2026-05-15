@@ -28,9 +28,11 @@ databel-churn-analysis/
 │
 ├── data/
 │   └── databel_customer_data.xlsx
+│   └── Metadata - Case Study_Analyzing Customer Churn in Power BI.pdf
 │
 ├── dashboard/
 │   └── databel_churn_dashboard.pbix
+│   └── databel_churn_dashboard_5pages.pdf
 │
 ├── screenshots/
 │   ├── page1_overview.png
